@@ -1,0 +1,13 @@
+C:\Users\furkan.yildiz\source\repos\15uygulamalarFormKoleksiyon\15uygulamalarFormKoleksiyon\bin\Debug\15uygulamalarFormKoleksiyon.exe.config
+C:\Users\furkan.yildiz\source\repos\15uygulamalarFormKoleksiyon\15uygulamalarFormKoleksiyon\bin\Debug\15uygulamalarFormKoleksiyon.exe
+C:\Users\furkan.yildiz\source\repos\15uygulamalarFormKoleksiyon\15uygulamalarFormKoleksiyon\bin\Debug\15uygulamalarFormKoleksiyon.pdb
+C:\Users\furkan.yildiz\source\repos\15uygulamalarFormKoleksiyon\15uygulamalarFormKoleksiyon\obj\Debug\15uygulamalarFormKoleksiyon.csproj.AssemblyReference.cache
+C:\Users\furkan.yildiz\source\repos\15uygulamalarFormKoleksiyon\15uygulamalarFormKoleksiyon\obj\Debug\15uygulamalarFormKoleksiyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan.yildiz\source\repos\15uygulamalarFormKoleksiyon\15uygulamalarFormKoleksiyon\obj\Debug\_15uygulamalarFormKoleksiyon.Form1.resources
+C:\Users\furkan.yildiz\source\repos\15uygulamalarFormKoleksiyon\15uygulamalarFormKoleksiyon\obj\Debug\_15uygulamalarFormKoleksiyon.Properties.Resources.resources
+C:\Users\furkan.yildiz\source\repos\15uygulamalarFormKoleksiyon\15uygulamalarFormKoleksiyon\obj\Debug\15uygulamalarFormKoleksiyon.csproj.GenerateResource.cache
+C:\Users\furkan.yildiz\source\repos\15uygulamalarFormKoleksiyon\15uygulamalarFormKoleksiyon\obj\Debug\15uygulamalarFormKoleksiyon.csproj.CoreCompileInputs.cache
+C:\Users\furkan.yildiz\source\repos\15uygulamalarFormKoleksiyon\15uygulamalarFormKoleksiyon\obj\Debug\15uygulamalarFormKoleksiyon.exe
+C:\Users\furkan.yildiz\source\repos\15uygulamalarFormKoleksiyon\15uygulamalarFormKoleksiyon\obj\Debug\15uygulamalarFormKoleksiyon.pdb
+C:\Users\furkan.yildiz\source\repos\15uygulamalarFormKoleksiyon\15uygulamalarFormKoleksiyon\obj\Debug\_15uygulamalarFormKoleksiyon.Form2.resources
+C:\Users\furkan.yildiz\source\repos\15uygulamalarFormKoleksiyon\15uygulamalarFormKoleksiyon\obj\Debug\_15uygulamalarFormKoleksiyon.Form3.resources
